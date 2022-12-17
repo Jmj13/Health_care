@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "865040505165",
+    "project_id": "helthcare-ce034",
+    "storage_bucket": "helthcare-ce034.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:865040505165:android:56cd672b033918f2fabf04",
+        "android_client_info": {
+          "package_name": "com.darkcoders.helth_care"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "865040505165-2dl070f87mp78ih9hkb8pmsu4c5lnkvd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3I3IPWWaIq5BNJAvUHnq_FxztQNbnyEs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "865040505165-2dl070f87mp78ih9hkb8pmsu4c5lnkvd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

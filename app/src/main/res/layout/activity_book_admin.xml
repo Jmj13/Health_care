@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+
+    android:background="@drawable/back"
+    android:layout_height="wrap_content"
+    tools:context=".BookAdminActivity">
+
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Upload"
+        android:id="@+id/uploadbutton"
+        android:visibility="gone"
+        android:padding="10dp"
+        android:layout_margin="10dp"
+        android:onClick="UploadFile"/>
+    <ListView
+        android:layout_width="match_parent"
+        android:padding="10dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/listview"/>
+
+
+</LinearLayout>

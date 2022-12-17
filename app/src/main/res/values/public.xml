@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <public name="material_list_item_single_line" type="layout"/>
+    <public name="material_list_item_two_line" type="layout"/>
+    <public name="material_list_item_three_line" type="layout"/>
+</resources>
